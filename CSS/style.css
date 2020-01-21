@@ -1,0 +1,36 @@
+.nav-div{
+    margin-left: 55%;
+}
+.card-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-container h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 15px;
+}
+.profile{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.tb-center h3{
+    margin-top: 120px;
+    color: cadetblue;
+    font-family: sans-serif;
+}
+.image1 img{
+    height: 388px;
+    width: 100%;
+}
+.nbf{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.f{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
